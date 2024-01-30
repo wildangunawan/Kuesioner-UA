@@ -19,7 +19,7 @@ Kayanya sih gitu, kalo butuh bantuan [_open issue_](https://github.com/wildangun
 
 Projek ini dilisensikan dengan MIT License. Kamu diperbolehkan hal-hal dari projek ini untuk mengubah, mendistribusikan ulang, menggunakannya baik secara private maupun komersial. Walaupun demikian, aku tidak bertanggungjawab atas kerugian apapun yang mungkin muncul akibat dari penggunaan projek ini.
 
-Kamu dapat membaca lisensi di [sini](LICENSE.md). Rangkuman pendek dari lisensi ini dapat kamu baca di [sini](https://www.tldrlegal.com/license/mit-license).
+Kamu dapat membaca lisensi di [sini](LICENSE). Rangkuman pendek dari lisensi ini dapat kamu baca di [sini](https://www.tldrlegal.com/license/mit-license).
 
 ## Jajan?
 
